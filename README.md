@@ -76,3 +76,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+composer require laravel/ui --dev
+cmd: php artisan ui vue --auth
+Create Database at phpMyAdmin named  “laravel_vue_infinite_scroll” and setup .env file in your root directory  
+Modify customize at AppServiceProvider.php  in project\app\Providers
+cmd: php artisan migrate
+npm install vue-infinite-loading -S
+npm install
+npm run watch
+php artisan serve

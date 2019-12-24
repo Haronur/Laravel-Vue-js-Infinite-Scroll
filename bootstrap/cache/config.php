@@ -10,7 +10,7 @@
     'locale' => 'en',
     'fallback_locale' => 'en',
     'faker_locale' => 'en_US',
-    'key' => 'base64:El3VWkRFhefnqZc6Mk16KeOloRs5XXQXfLGZXR6EqSA=',
+    'key' => 'base64:a11sWdtgbph8Zi45XpMD1MUOMDc3kiYZ0F8QMu0arcE=',
     'cipher' => 'AES-256-CBC',
     'providers' => 
     array (
@@ -175,7 +175,7 @@
       'file' => 
       array (
         'driver' => 'file',
-        'path' => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\storage\\framework/cache/data',
+        'path' => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\storage\\framework/cache/data',
       ),
       'memcached' => 
       array (
@@ -225,7 +225,7 @@
       array (
         'driver' => 'sqlite',
         'url' => NULL,
-        'database' => 'laravelfactories',
+        'database' => 'laravel_vue_infinite_scroll',
         'prefix' => '',
         'foreign_key_constraints' => true,
       ),
@@ -235,7 +235,7 @@
         'url' => NULL,
         'host' => '127.0.0.1',
         'port' => '3306',
-        'database' => 'laravelfactories',
+        'database' => 'laravel_vue_infinite_scroll',
         'username' => 'root',
         'password' => '',
         'unix_socket' => '',
@@ -255,7 +255,7 @@
         'url' => NULL,
         'host' => '127.0.0.1',
         'port' => '3306',
-        'database' => 'laravelfactories',
+        'database' => 'laravel_vue_infinite_scroll',
         'username' => 'root',
         'password' => '',
         'charset' => 'utf8',
@@ -270,7 +270,7 @@
         'url' => NULL,
         'host' => '127.0.0.1',
         'port' => '3306',
-        'database' => 'laravelfactories',
+        'database' => 'laravel_vue_infinite_scroll',
         'username' => 'root',
         'password' => '',
         'charset' => 'utf8',
@@ -314,12 +314,12 @@
       'local' => 
       array (
         'driver' => 'local',
-        'root' => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\storage\\app',
+        'root' => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\storage\\app',
       ),
       'public' => 
       array (
         'driver' => 'local',
-        'root' => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\storage\\app/public',
+        'root' => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\storage\\app/public',
         'url' => 'http://localhost/storage',
         'visibility' => 'public',
       ),
@@ -365,13 +365,13 @@
       'single' => 
       array (
         'driver' => 'single',
-        'path' => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\storage\\logs/laravel.log',
+        'path' => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\storage\\logs/laravel.log',
         'level' => 'debug',
       ),
       'daily' => 
       array (
         'driver' => 'daily',
-        'path' => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\storage\\logs/laravel.log',
+        'path' => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\storage\\logs/laravel.log',
         'level' => 'debug',
         'days' => 14,
       ),
@@ -440,7 +440,7 @@
       'theme' => 'default',
       'paths' => 
       array (
-        0 => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\resources\\views/vendor/mail',
+        0 => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\resources\\views/vendor/mail',
       ),
     ),
     'log_channel' => NULL,
@@ -519,7 +519,7 @@
     'lifetime' => '120',
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\storage\\framework/sessions',
+    'files' => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\storage\\framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
@@ -539,9 +539,9 @@
   array (
     'paths' => 
     array (
-      0 => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\resources\\views',
+      0 => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\resources\\views',
     ),
-    'compiled' => 'F:\\XAMPP729\\htdocs\\LARAVEL\\LaravelFactories\\storage\\framework\\views',
+    'compiled' => 'H:\\XAMPPH\\htdocs\\LARAVEL-VUEJS\\Laravel-Vue-js-Infinite-Scroll\\storage\\framework\\views',
   ),
   'flare' => 
   array (
